@@ -8,15 +8,19 @@ func minFlipsMonoIncr(s string) int {
         if char == '1'{
             occ_of_1 +=1
         }else{
-            flip = min(flip+1, occ_of_1)
+            flip++
+            if flip > occ_of_1{
+                flip = occ_of_1
+            }
+            // flip = min(flip+1, occ_of_1)
         }
     }
     return flip 
 }
 
-func min(x, y int) int {
-    if x <= y{
-        return x
-    }
-    return y
-}
+// func min(x, y int) int {
+//     if x <= y{
+//         return x
+//     }
+//     return y
+// }
