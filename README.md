@@ -16,6 +16,7 @@ Collection of LeetCode questions from Dynamic Programming Section.
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0058-length-of-last-word) |
 | [0093-restore-ip-addresses](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0093-restore-ip-addresses) |
 ## Backtracking
 |  |
