@@ -17,9 +17,18 @@ Collection of LeetCode questions from Dynamic Programming Section.
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0058-length-of-last-word) |
+| [0076-minimum-window-substring](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0076-minimum-window-substring) |
 | [0093-restore-ip-addresses](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0093-restore-ip-addresses) |
 ## Backtracking
 |  |
 | ------- |
 | [0093-restore-ip-addresses](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0093-restore-ip-addresses) |
+## Hash Table
+|  |
+| ------- |
+| [0076-minimum-window-substring](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0076-minimum-window-substring) |
+## Sliding Window
+|  |
+| ------- |
+| [0076-minimum-window-substring](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0076-minimum-window-substring) |
 <!---LeetCode Topics End-->
