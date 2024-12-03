@@ -1,25 +1,25 @@
 class Solution:
     def kthLargestNumber(self, nums: List[str], k: int) -> str:
-        
-        # Convert the list of string numbers to integers
+        # Step 1: Convert string numbers to integers
         nums = [self.stringToInt(num) for num in nums]
         
-        # Initialize the heap with the first k elements
-        heap = Heap(nums[:k])  # We need to keep exactly k elements in the heap
+        # Step 2: Initialize the heap with the first `k` elements
+        heap = Heap(nums[:k])  # Heap is a min-heap
         
-        # Now, process the remaining elements in nums
+        # Step 3: Process the rest of the elements in `nums`
         for idx in range(k, len(nums)):
-            minValue = heap.peak()  # Get the smallest element (the root of the heap)
+            # Compare the current element with the root (smallest element in heap)
+            minValue = heap.peak()
             if nums[idx] > minValue:
-                heap.remove()  # Remove the smallest element
-                heap.insert(nums[idx])  # Insert the current element
+                # Remove the root of the heap and insert the new element
+                heap.remove()
+                heap.insert(nums[idx])
 
-        # After processing all elements, the root of the heap contains the kth largest element
-        return str(heap.peak())  # Return the root as a string
-
+        # Step 4: The root of the heap now contains the kth largest number
+        return str(heap.peak())  # Return it as a string
 
     def stringToInt(self, num: str) -> int:
-        # Convert the string representation of a number to an integer
+        # Convert the string number to an integer
         res = 0
         for chr in num:
             res = res * 10 + (ord(chr) - ord('0'))
@@ -29,36 +29,37 @@ class Solution:
 class Heap:
     
     def __init__(self, array):
-        # Build the heap using the array
+        # Initialize the heap
         self.heap = self.buildHeap(array)
 
     def buildHeap(self, array):
-        # Build a heap from the array (min-heap)
+        # Build the min-heap by sifting down from the last parent index
         firstParentIdx = (len(array) - 2) // 2
         for currentIdx in reversed(range(firstParentIdx + 1)):
             self.siftDown(currentIdx, len(array) - 1, array)
         return array
 
     def siftDown(self, currentIdx, endIdx, heap):
-        # Move the element at currentIdx down to restore the heap property
+        # Ensure the heap property is maintained while moving down the heap
         childOneIdx = currentIdx * 2 + 1
         while childOneIdx <= endIdx:
             childTwoIdx = currentIdx * 2 + 2 if currentIdx * 2 + 2 <= endIdx else -1
+            # Select the smaller of the two children
             if childTwoIdx != -1 and heap[childTwoIdx] < heap[childOneIdx]:
                 idxToSwap = childTwoIdx
             else:
                 idxToSwap = childOneIdx
 
-            # If the current node is larger than the smallest child, swap them
+            # If the smallest child is smaller than the current node, swap them
             if heap[idxToSwap] < heap[currentIdx]:
                 self.swap(currentIdx, idxToSwap, heap)
                 currentIdx = idxToSwap
-                childOneIdx = currentIdx * 2 + 1
+                childOneIdx = currentIdx * 2 + 1  # Update childOneIdx to the next level
             else:
                 return
 
     def siftUp(self, currentIdx, heap):
-        # Move the element at currentIdx up to restore the heap property
+        # Ensure the heap property is maintained while moving up the heap
         parentIdx = (currentIdx - 1) // 2
         while currentIdx > 0 and heap[currentIdx] < heap[parentIdx]:
             self.swap(currentIdx, parentIdx, heap)
@@ -66,18 +67,18 @@ class Heap:
             parentIdx = (currentIdx - 1) // 2
 
     def peak(self):
-        # Return the root of the heap (the smallest element)
+        # Return the root of the heap (smallest element in a min-heap)
         return self.heap[0]
 
     def remove(self):
-        # Remove the root (the smallest element)
+        # Swap the root with the last element, pop it, and restore the heap property
         self.swap(0, len(self.heap) - 1, self.heap)
         valueToRemove = self.heap.pop()
         self.siftDown(0, len(self.heap) - 1, self.heap)
         return valueToRemove
 
     def insert(self, value):
-        # Insert a new element into the heap
+        # Add a new element and restore the heap property
         self.heap.append(value)
         self.siftUp(len(self.heap) - 1, self.heap)
 
