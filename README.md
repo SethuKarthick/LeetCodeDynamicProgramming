@@ -6,6 +6,7 @@ Collection of LeetCode questions from Dynamic Programming Section.
 ## Array
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0056-merge-intervals) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0523-continuous-subarray-sum](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0523-continuous-subarray-sum) |
@@ -44,6 +45,7 @@ Collection of LeetCode questions from Dynamic Programming Section.
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0056-merge-intervals) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 ## Heap (Priority Queue)
 |  |
