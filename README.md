@@ -15,6 +15,7 @@ Collection of LeetCode questions from Dynamic Programming Section.
 | [0523-continuous-subarray-sum](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0523-continuous-subarray-sum) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
+| [2232-adding-spaces-to-a-string](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2232-adding-spaces-to-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -28,6 +29,7 @@ Collection of LeetCode questions from Dynamic Programming Section.
 | [0093-restore-ip-addresses](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0093-restore-ip-addresses) |
 | [0125-valid-palindrome](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0125-valid-palindrome) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
+| [2232-adding-spaces-to-a-string](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2232-adding-spaces-to-a-string) |
 ## Backtracking
 |  |
 | ------- |
@@ -70,6 +72,7 @@ Collection of LeetCode questions from Dynamic Programming Section.
 | [0016-3sum-closest](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0016-3sum-closest) |
 | [0125-valid-palindrome](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0125-valid-palindrome) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2232-adding-spaces-to-a-string](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2232-adding-spaces-to-a-string) |
 ## Math
 |  |
 | ------- |
@@ -96,4 +99,8 @@ Collection of LeetCode questions from Dynamic Programming Section.
 | ------- |
 | [0035-search-insert-position](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0035-search-insert-position) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1468-check-if-n-and-its-double-exist) |
+## Simulation
+|  |
+| ------- |
+| [2232-adding-spaces-to-a-string](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2232-adding-spaces-to-a-string) |
 <!---LeetCode Topics End-->
