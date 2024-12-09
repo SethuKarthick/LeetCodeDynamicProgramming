@@ -64,6 +64,7 @@ Collection of LeetCode questions from Dynamic Programming Section.
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0523-continuous-subarray-sum) |
+| [0593-valid-square](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0593-valid-square) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -76,4 +77,8 @@ Collection of LeetCode questions from Dynamic Programming Section.
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0023-merge-k-sorted-lists) |
+## Geometry
+|  |
+| ------- |
+| [0593-valid-square](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0593-valid-square) |
 <!---LeetCode Topics End-->
