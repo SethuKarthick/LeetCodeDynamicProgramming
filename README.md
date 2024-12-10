@@ -16,6 +16,7 @@ Collection of LeetCode questions from Dynamic Programming Section.
 | [1468-check-if-n-and-its-double-exist](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2232-adding-spaces-to-a-string) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -41,6 +42,7 @@ Collection of LeetCode questions from Dynamic Programming Section.
 | [0076-minimum-window-substring](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0076-minimum-window-substring) |
 | [0523-continuous-subarray-sum](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0523-continuous-subarray-sum) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -57,6 +59,7 @@ Collection of LeetCode questions from Dynamic Programming Section.
 | [0056-merge-intervals](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0056-merge-intervals) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -99,8 +102,13 @@ Collection of LeetCode questions from Dynamic Programming Section.
 | ------- |
 | [0035-search-insert-position](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0035-search-insert-position) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Simulation
 |  |
 | ------- |
 | [2232-adding-spaces-to-a-string](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2232-adding-spaces-to-a-string) |
+## Greedy
+|  |
+| ------- |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 <!---LeetCode Topics End-->
