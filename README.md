@@ -18,6 +18,7 @@ Collection of LeetCode questions from Dynamic Programming Section.
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2232-adding-spaces-to-a-string) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 ## Dynamic Programming
 |  |
@@ -69,6 +70,7 @@ Collection of LeetCode questions from Dynamic Programming Section.
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0023-merge-k-sorted-lists) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2692-take-gifts-from-the-richest-pile) |
 ## Quickselect
 |  |
 | ------- |
@@ -113,6 +115,7 @@ Collection of LeetCode questions from Dynamic Programming Section.
 |  |
 | ------- |
 | [2232-adding-spaces-to-a-string](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2232-adding-spaces-to-a-string) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2692-take-gifts-from-the-richest-pile) |
 ## Greedy
 |  |
 | ------- |
