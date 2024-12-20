@@ -180,4 +180,20 @@ Collection of LeetCode questions from Dynamic Programming Section.
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0029-divide-two-integers) |
+## Tree
+|  |
+| ------- |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 <!---LeetCode Topics End-->
