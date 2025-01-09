@@ -119,6 +119,7 @@ Collection of LeetCode questions from Dynamic Programming Section.
 | [0029-divide-two-integers](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0029-divide-two-integers) |
 | [0523-continuous-subarray-sum](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0523-continuous-subarray-sum) |
 | [0593-valid-square](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0593-valid-square) |
+| [2998-count-symmetric-integers](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2998-count-symmetric-integers) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Prefix Sum
 |  |
@@ -241,4 +242,8 @@ Collection of LeetCode questions from Dynamic Programming Section.
 |  |
 | ------- |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Enumeration
+|  |
+| ------- |
+| [2998-count-symmetric-integers](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2998-count-symmetric-integers) |
 <!---LeetCode Topics End-->
