@@ -195,24 +195,28 @@ Collection of LeetCode questions from Dynamic Programming Section.
 ## Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0101-symmetric-tree) |
 | [0617-merge-two-binary-trees](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0617-merge-two-binary-trees) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0101-symmetric-tree) |
 | [0617-merge-two-binary-trees](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0617-merge-two-binary-trees) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0101-symmetric-tree) |
 | [0617-merge-two-binary-trees](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0617-merge-two-binary-trees) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Binary Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0101-symmetric-tree) |
 | [0617-merge-two-binary-trees](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0617-merge-two-binary-trees) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Graph
