@@ -29,6 +29,7 @@ Collection of LeetCode questions from Dynamic Programming Section.
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2868-continuous-subarrays](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Dynamic Programming
 |  |
@@ -47,6 +48,7 @@ Collection of LeetCode questions from Dynamic Programming Section.
 | [2232-adding-spaces-to-a-string](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2232-adding-spaces-to-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2300-construct-string-with-repeat-limit](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2300-construct-string-with-repeat-limit) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -215,4 +217,17 @@ Collection of LeetCode questions from Dynamic Programming Section.
 |  |
 | ------- |
 | [2292-counting-words-with-a-given-prefix](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2292-counting-words-with-a-given-prefix) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Trie
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Rolling Hash
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Hash Function
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 <!---LeetCode Topics End-->
