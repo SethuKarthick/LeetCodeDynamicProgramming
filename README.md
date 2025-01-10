@@ -17,6 +17,7 @@ Collection of LeetCode questions from Dynamic Programming Section.
 | [0494-target-sum](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0494-target-sum) |
 | [0523-continuous-subarray-sum](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0523-continuous-subarray-sum) |
 | [0780-max-chunks-to-make-sorted](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0780-max-chunks-to-make-sorted) |
+| [0952-word-subsets](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0952-word-subsets) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1524-string-matching-in-an-array](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1524-string-matching-in-an-array) |
 | [1539-diagonal-traverse-ii](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1539-diagonal-traverse-ii) |
@@ -45,6 +46,7 @@ Collection of LeetCode questions from Dynamic Programming Section.
 | [0076-minimum-window-substring](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0076-minimum-window-substring) |
 | [0093-restore-ip-addresses](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0093-restore-ip-addresses) |
 | [0125-valid-palindrome](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0125-valid-palindrome) |
+| [0952-word-subsets](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0952-word-subsets) |
 | [1524-string-matching-in-an-array](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1524-string-matching-in-an-array) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2232-adding-spaces-to-a-string) |
@@ -63,6 +65,7 @@ Collection of LeetCode questions from Dynamic Programming Section.
 | [0041-first-missing-positive](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0041-first-missing-positive) |
 | [0076-minimum-window-substring](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0076-minimum-window-substring) |
 | [0523-continuous-subarray-sum](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0523-continuous-subarray-sum) |
+| [0952-word-subsets](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0952-word-subsets) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2300-construct-string-with-repeat-limit](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2300-construct-string-with-repeat-limit) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
