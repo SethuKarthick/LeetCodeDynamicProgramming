@@ -30,6 +30,7 @@ Collection of LeetCode questions from Dynamic Programming Section.
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2868-continuous-subarrays](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -72,6 +73,7 @@ Collection of LeetCode questions from Dynamic Programming Section.
 | [2300-construct-string-with-repeat-limit](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2300-construct-string-with-repeat-limit) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Sliding Window
 |  |
 | ------- |
@@ -199,6 +201,7 @@ Collection of LeetCode questions from Dynamic Programming Section.
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0029-divide-two-integers) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Tree
 |  |
 | ------- |
