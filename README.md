@@ -15,6 +15,7 @@ Collection of LeetCode questions from Dynamic Programming Section.
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0300-longest-increasing-subsequence](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0407-trapping-rain-water-ii](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0407-trapping-rain-water-ii) |
 | [0494-target-sum](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0494-target-sum) |
 | [0523-continuous-subarray-sum](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0523-continuous-subarray-sum) |
 | [0780-max-chunks-to-make-sorted](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0780-max-chunks-to-make-sorted) |
@@ -106,6 +107,7 @@ Collection of LeetCode questions from Dynamic Programming Section.
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0023-merge-k-sorted-lists) |
+| [0407-trapping-rain-water-ii](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0407-trapping-rain-water-ii) |
 | [1539-diagonal-traverse-ii](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1539-diagonal-traverse-ii) |
 | [1917-maximum-average-pass-ratio](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1917-maximum-average-pass-ratio) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
@@ -176,6 +178,7 @@ Collection of LeetCode questions from Dynamic Programming Section.
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0036-valid-sudoku) |
+| [0407-trapping-rain-water-ii](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0407-trapping-rain-water-ii) |
 ## Queue
 |  |
 | ------- |
@@ -227,6 +230,7 @@ Collection of LeetCode questions from Dynamic Programming Section.
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0101-symmetric-tree) |
+| [0407-trapping-rain-water-ii](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0407-trapping-rain-water-ii) |
 | [0617-merge-two-binary-trees](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0617-merge-two-binary-trees) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
