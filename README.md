@@ -243,6 +243,7 @@ Collection of LeetCode questions from Dynamic Programming Section.
 | [0101-symmetric-tree](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0112-path-sum) |
 | [0617-merge-two-binary-trees](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0617-merge-two-binary-trees) |
+| [0820-find-eventual-safe-states](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0820-find-eventual-safe-states) |
 | [1396-count-servers-that-communicate](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1396-count-servers-that-communicate) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
@@ -253,6 +254,7 @@ Collection of LeetCode questions from Dynamic Programming Section.
 | [0112-path-sum](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0112-path-sum) |
 | [0407-trapping-rain-water-ii](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0407-trapping-rain-water-ii) |
 | [0617-merge-two-binary-trees](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0617-merge-two-binary-trees) |
+| [0820-find-eventual-safe-states](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0820-find-eventual-safe-states) |
 | [1396-count-servers-that-communicate](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1396-count-servers-that-communicate) |
 | [1876-map-of-highest-peak](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1876-map-of-highest-peak) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -267,6 +269,7 @@ Collection of LeetCode questions from Dynamic Programming Section.
 ## Graph
 |  |
 | ------- |
+| [0820-find-eventual-safe-states](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0820-find-eventual-safe-states) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## String Matching
 |  |
@@ -298,4 +301,8 @@ Collection of LeetCode questions from Dynamic Programming Section.
 |  |
 | ------- |
 | [1396-count-servers-that-communicate](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1396-count-servers-that-communicate) |
+## Topological Sort
+|  |
+| ------- |
+| [0820-find-eventual-safe-states](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0820-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
