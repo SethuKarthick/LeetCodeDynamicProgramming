@@ -157,6 +157,7 @@ Collection of LeetCode questions from Dynamic Programming Section.
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0023-merge-k-sorted-lists) |
 ## Merge Sort
 |  |
@@ -325,4 +326,8 @@ Collection of LeetCode questions from Dynamic Programming Section.
 | [0820-find-eventual-safe-states](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0820-find-eventual-safe-states) |
 | [1558-course-schedule-iv](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1558-course-schedule-iv) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
