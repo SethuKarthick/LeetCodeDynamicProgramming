@@ -7,5 +7,6 @@ class Solution:
 
         res = 0
         for val in count.values():
-            res += 4*val*(val -1)
+            if val > 1:
+                res += 4*val*(val -1)
         return res
