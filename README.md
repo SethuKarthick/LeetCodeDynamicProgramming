@@ -50,6 +50,7 @@ Collection of LeetCode questions from Dynamic Programming Section.
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/3429-special-array-i) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Dynamic Programming
 |  |
@@ -96,6 +97,7 @@ Collection of LeetCode questions from Dynamic Programming Section.
 | [2685-first-completely-painted-row-or-column](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2685-first-completely-painted-row-or-column) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Sliding Window
 |  |
 | ------- |
@@ -189,6 +191,7 @@ Collection of LeetCode questions from Dynamic Programming Section.
 | [2232-adding-spaces-to-a-string](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2232-adding-spaces-to-a-string) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Greedy
 |  |
