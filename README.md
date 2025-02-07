@@ -10,6 +10,7 @@ Collection of LeetCode questions from Dynamic Programming Section.
 | [0033-search-in-rotated-sorted-array](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0042-trapping-rain-water) |
 | [0056-merge-intervals](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0056-merge-intervals) |
@@ -79,12 +80,14 @@ Collection of LeetCode questions from Dynamic Programming Section.
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0037-sudoku-solver) |
 | [0093-restore-ip-addresses](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0093-restore-ip-addresses) |
 | [0494-target-sum](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0494-target-sum) |
 ## Hash Table
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0041-first-missing-positive) |
 | [0076-minimum-window-substring](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0076-minimum-window-substring) |
 | [0523-continuous-subarray-sum](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0523-continuous-subarray-sum) |
@@ -204,6 +207,7 @@ Collection of LeetCode questions from Dynamic Programming Section.
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0037-sudoku-solver) |
 | [0407-trapping-rain-water-ii](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0407-trapping-rain-water-ii) |
 | [0854-making-a-large-island](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0854-making-a-large-island) |
 | [1396-count-servers-that-communicate](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1396-count-servers-that-communicate) |
