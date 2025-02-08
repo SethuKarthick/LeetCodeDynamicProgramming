@@ -96,6 +96,7 @@ Collection of LeetCode questions from Dynamic Programming Section.
 | [1468-check-if-n-and-its-double-exist](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2300-construct-string-with-repeat-limit](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2300-construct-string-with-repeat-limit) |
+| [2434-design-a-number-container-system](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2434-design-a-number-container-system) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2685-first-completely-painted-row-or-column](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2685-first-completely-painted-row-or-column) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -134,6 +135,7 @@ Collection of LeetCode questions from Dynamic Programming Section.
 | [1917-maximum-average-pass-ratio](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1917-maximum-average-pass-ratio) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2300-construct-string-with-repeat-limit](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2300-construct-string-with-repeat-limit) |
+| [2434-design-a-number-container-system](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2434-design-a-number-container-system) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2868-continuous-subarrays](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2868-continuous-subarrays) |
@@ -222,6 +224,7 @@ Collection of LeetCode questions from Dynamic Programming Section.
 ## Ordered Set
 |  |
 | ------- |
+| [2434-design-a-number-container-system](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2434-design-a-number-container-system) |
 | [2868-continuous-subarrays](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2868-continuous-subarrays) |
 ## Monotonic Queue
 |  |
@@ -346,4 +349,8 @@ Collection of LeetCode questions from Dynamic Programming Section.
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0021-merge-two-sorted-lists) |
+## Design
+|  |
+| ------- |
+| [2434-design-a-number-container-system](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2434-design-a-number-container-system) |
 <!---LeetCode Topics End-->
