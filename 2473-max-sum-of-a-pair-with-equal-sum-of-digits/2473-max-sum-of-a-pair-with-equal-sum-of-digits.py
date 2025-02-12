@@ -17,6 +17,6 @@ class Solution:
 
         for val in ans:
             val.sort(reverse= True)
-            res = max(res, val[0]+val[1])
+            res = max(res, val[0]+ val[1])
 
         return res
