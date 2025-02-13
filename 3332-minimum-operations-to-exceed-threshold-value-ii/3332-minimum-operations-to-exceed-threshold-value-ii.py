@@ -5,12 +5,12 @@ class Solution:
 
         op = 0
 
-        while len(pq) > 1:
+        while pq[0] < k:
             x = heapq.heappop(pq)
             y = heapq.heappop(pq)
 
-            if x >= k:
-                return op
+            # if x >= k:
+            #     return op
             n = 2 * min(x, y) + max(x, y)
             heapq.heappush(pq, n)
             op+= 1
