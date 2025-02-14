@@ -27,6 +27,7 @@ Collection of LeetCode questions from Dynamic Programming Section.
 | [1367-maximum-height-by-stacking-cuboids](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1367-maximum-height-by-stacking-cuboids) |
 | [1396-count-servers-that-communicate](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1396-count-servers-that-communicate) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1477-product-of-the-last-k-numbers](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1477-product-of-the-last-k-numbers) |
 | [1524-string-matching-in-an-array](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1524-string-matching-in-an-array) |
 | [1539-diagonal-traverse-ii](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1539-diagonal-traverse-ii) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -169,6 +170,7 @@ Collection of LeetCode questions from Dynamic Programming Section.
 | [0029-divide-two-integers](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0029-divide-two-integers) |
 | [0523-continuous-subarray-sum](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0523-continuous-subarray-sum) |
 | [0593-valid-square](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0593-valid-square) |
+| [1477-product-of-the-last-k-numbers](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1477-product-of-the-last-k-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2448-count-number-of-bad-pairs) |
 | [2752-sum-multiples](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2752-sum-multiples) |
 | [2998-count-symmetric-integers](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2998-count-symmetric-integers) |
@@ -177,6 +179,7 @@ Collection of LeetCode questions from Dynamic Programming Section.
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0523-continuous-subarray-sum) |
+| [1477-product-of-the-last-k-numbers](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1477-product-of-the-last-k-numbers) |
 | [2145-grid-game](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2145-grid-game) |
 ## Linked List
 |  |
@@ -369,5 +372,10 @@ Collection of LeetCode questions from Dynamic Programming Section.
 ## Design
 |  |
 | ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1477-product-of-the-last-k-numbers) |
 | [2434-design-a-number-container-system](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2434-design-a-number-container-system) |
+## Data Stream
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1477-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
