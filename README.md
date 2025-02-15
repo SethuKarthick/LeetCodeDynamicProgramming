@@ -89,6 +89,7 @@ Collection of LeetCode questions from Dynamic Programming Section.
 | [0037-sudoku-solver](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0037-sudoku-solver) |
 | [0093-restore-ip-addresses](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0093-restore-ip-addresses) |
 | [0494-target-sum](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0494-target-sum) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Hash Table
 |  |
 | ------- |
@@ -173,6 +174,7 @@ Collection of LeetCode questions from Dynamic Programming Section.
 | [1477-product-of-the-last-k-numbers](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1477-product-of-the-last-k-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2448-count-number-of-bad-pairs) |
 | [2752-sum-multiples](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2752-sum-multiples) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2998-count-symmetric-integers](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2998-count-symmetric-integers) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Prefix Sum
