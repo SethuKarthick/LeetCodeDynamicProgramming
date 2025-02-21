@@ -5,21 +5,45 @@
 #         self.left = left
 #         self.right = right
 class FindElements:
-
-    def __init__(self, root):
+    def __init__(self, root: Optional[TreeNode]):
         self.values = set()
-        self.recover_tree(root, 0)
+        q = deque()
+        q.append((root,0))
+        while q:
+            n = len(q)
+            for _ in range(n):
+                node, cur_val = q.popleft()
+                node.val = cur_val
+                self.values.add(cur_val)
+                if node.left:
+                    q.append((node.left,2*cur_val + 1))
+                if node.right:
+                    q.append((node.right,2*cur_val + 2))
+        
 
-    def recover_tree(self, node, value):
-        if not node:
-            return
-        self.values.add(value)
-        node.val = value
-        self.recover_tree(node.left, 2 * value + 1)
-        self.recover_tree(node.right, 2 * value + 2)
+        
 
-    def find(self, target):
+    def find(self, target: int) -> bool:
         return target in self.values
+
+        # if target in self.values:
+        #     return True
+        # return False
+
+    # def __init__(self, root):
+    #     self.values = set()
+    #     self.recover_tree(root, 0)
+
+    # def recover_tree(self, node, value):
+    #     if not node:
+    #         return
+    #     self.values.add(value)
+    #     node.val = value
+    #     self.recover_tree(node.left, 2 * value + 1)
+    #     self.recover_tree(node.right, 2 * value + 2)
+
+    # def find(self, target):
+    #     return target in self.values
         
 
 
