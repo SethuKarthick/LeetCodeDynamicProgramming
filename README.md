@@ -44,6 +44,7 @@ Collection of LeetCode questions from Dynamic Programming Section.
 | [2448-count-number-of-bad-pairs](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2685-first-completely-painted-row-or-column](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2685-first-completely-painted-row-or-column) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2692-take-gifts-from-the-richest-pile) |
@@ -303,6 +304,7 @@ Collection of LeetCode questions from Dynamic Programming Section.
 | [0617-merge-two-binary-trees](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0617-merge-two-binary-trees) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2564-most-profitable-path-in-a-tree) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Depth-First Search
 |  |
@@ -317,6 +319,7 @@ Collection of LeetCode questions from Dynamic Programming Section.
 | [1558-course-schedule-iv](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1558-course-schedule-iv) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Breadth-First Search
@@ -333,6 +336,7 @@ Collection of LeetCode questions from Dynamic Programming Section.
 | [1558-course-schedule-iv](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1558-course-schedule-iv) |
 | [1876-map-of-highest-peak](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1876-map-of-highest-peak) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Binary Tree
@@ -349,6 +353,7 @@ Collection of LeetCode questions from Dynamic Programming Section.
 | [0820-find-eventual-safe-states](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0820-find-eventual-safe-states) |
 | [1558-course-schedule-iv](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1558-course-schedule-iv) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2564-most-profitable-path-in-a-tree) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## String Matching
 |  |
