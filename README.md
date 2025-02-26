@@ -32,6 +32,7 @@ Collection of LeetCode questions from Dynamic Programming Section.
 | [1539-diagonal-traverse-ii](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1539-diagonal-traverse-ii) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1876-map-of-highest-peak](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1917-maximum-average-pass-ratio](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1917-maximum-average-pass-ratio) |
@@ -69,6 +70,7 @@ Collection of LeetCode questions from Dynamic Programming Section.
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0494-target-sum](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0494-target-sum) |
 | [1367-maximum-height-by-stacking-cuboids](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1367-maximum-height-by-stacking-cuboids) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 ## String
 |  |
 | ------- |
