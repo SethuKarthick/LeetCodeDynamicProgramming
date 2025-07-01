@@ -23,6 +23,7 @@ Collection of LeetCode questions from Dynamic Programming Section.
 | [0523-continuous-subarray-sum](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0523-continuous-subarray-sum) |
 | [0780-max-chunks-to-make-sorted](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0780-max-chunks-to-make-sorted) |
 | [0854-making-a-large-island](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0854-making-a-large-island) |
+| [0898-transpose-matrix](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0898-transpose-matrix) |
 | [0952-word-subsets](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0952-word-subsets) |
 | [1019-squares-of-a-sorted-array](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1019-squares-of-a-sorted-array) |
 | [1364-tuple-with-same-product](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1364-tuple-with-same-product) |
@@ -231,6 +232,7 @@ Collection of LeetCode questions from Dynamic Programming Section.
 ## Simulation
 |  |
 | ------- |
+| [0898-transpose-matrix](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0898-transpose-matrix) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2232-adding-spaces-to-a-string](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2232-adding-spaces-to-a-string) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2692-take-gifts-from-the-richest-pile) |
@@ -254,6 +256,7 @@ Collection of LeetCode questions from Dynamic Programming Section.
 | [0037-sudoku-solver](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0037-sudoku-solver) |
 | [0407-trapping-rain-water-ii](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0407-trapping-rain-water-ii) |
 | [0854-making-a-large-island](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0854-making-a-large-island) |
+| [0898-transpose-matrix](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0898-transpose-matrix) |
 | [1396-count-servers-that-communicate](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1396-count-servers-that-communicate) |
 | [1876-map-of-highest-peak](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2145-grid-game) |
