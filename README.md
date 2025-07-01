@@ -24,6 +24,7 @@ Collection of LeetCode questions from Dynamic Programming Section.
 | [0780-max-chunks-to-make-sorted](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0780-max-chunks-to-make-sorted) |
 | [0854-making-a-large-island](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0854-making-a-large-island) |
 | [0952-word-subsets](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0952-word-subsets) |
+| [1019-squares-of-a-sorted-array](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1019-squares-of-a-sorted-array) |
 | [1364-tuple-with-same-product](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1364-tuple-with-same-product) |
 | [1367-maximum-height-by-stacking-cuboids](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1367-maximum-height-by-stacking-cuboids) |
 | [1396-count-servers-that-communicate](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1396-count-servers-that-communicate) |
@@ -147,6 +148,7 @@ Collection of LeetCode questions from Dynamic Programming Section.
 | [0016-3sum-closest](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0016-3sum-closest) |
 | [0056-merge-intervals](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0056-merge-intervals) |
 | [0780-max-chunks-to-make-sorted](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0780-max-chunks-to-make-sorted) |
+| [1019-squares-of-a-sorted-array](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1019-squares-of-a-sorted-array) |
 | [1367-maximum-height-by-stacking-cuboids](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1367-maximum-height-by-stacking-cuboids) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1539-diagonal-traverse-ii](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1539-diagonal-traverse-ii) |
@@ -182,6 +184,7 @@ Collection of LeetCode questions from Dynamic Programming Section.
 | [0019-remove-nth-node-from-end-of-list](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0125-valid-palindrome) |
+| [1019-squares-of-a-sorted-array](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1019-squares-of-a-sorted-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2232-adding-spaces-to-a-string](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2232-adding-spaces-to-a-string) |
 ## Math
