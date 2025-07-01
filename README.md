@@ -6,6 +6,7 @@ Collection of LeetCode questions from Dynamic Programming Section.
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0001-two-sum) |
 | [0016-3sum-closest](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0016-3sum-closest) |
 | [0033-search-in-rotated-sorted-array](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0035-search-insert-position) |
@@ -107,6 +108,7 @@ Collection of LeetCode questions from Dynamic Programming Section.
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0041-first-missing-positive) |
