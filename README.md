@@ -17,6 +17,7 @@ Collection of LeetCode questions from Dynamic Programming Section.
 | [0042-trapping-rain-water](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0042-trapping-rain-water) |
 | [0056-merge-intervals](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0056-merge-intervals) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0238-product-of-array-except-self](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -212,6 +213,7 @@ Collection of LeetCode questions from Dynamic Programming Section.
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0238-product-of-array-except-self) |
 | [0523-continuous-subarray-sum](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0523-continuous-subarray-sum) |
 | [1477-product-of-the-last-k-numbers](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1477-product-of-the-last-k-numbers) |
 | [2145-grid-game](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2145-grid-game) |
