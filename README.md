@@ -17,6 +17,7 @@ Collection of LeetCode questions from Dynamic Programming Section.
 | [0042-trapping-rain-water](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0042-trapping-rain-water) |
 | [0056-merge-intervals](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0056-merge-intervals) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0283-move-zeroes](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0407-trapping-rain-water-ii](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0407-trapping-rain-water-ii) |
@@ -188,6 +189,7 @@ Collection of LeetCode questions from Dynamic Programming Section.
 | [0019-remove-nth-node-from-end-of-list](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0125-valid-palindrome) |
+| [0283-move-zeroes](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0283-move-zeroes) |
 | [1019-squares-of-a-sorted-array](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1019-squares-of-a-sorted-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2232-adding-spaces-to-a-string](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2232-adding-spaces-to-a-string) |
