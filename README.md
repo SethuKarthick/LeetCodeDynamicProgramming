@@ -28,6 +28,7 @@ Collection of LeetCode questions from Dynamic Programming Section.
 | [0780-max-chunks-to-make-sorted](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0780-max-chunks-to-make-sorted) |
 | [0854-making-a-large-island](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0854-making-a-large-island) |
 | [0875-longest-mountain-in-array](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0875-longest-mountain-in-array) |
+| [0879-maximize-distance-to-closest-person](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0879-maximize-distance-to-closest-person) |
 | [0898-transpose-matrix](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0898-transpose-matrix) |
 | [0932-monotonic-array](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0932-monotonic-array) |
 | [0952-word-subsets](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0952-word-subsets) |
