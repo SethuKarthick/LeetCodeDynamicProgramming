@@ -17,6 +17,7 @@ Collection of LeetCode questions from Dynamic Programming Section.
 | [0042-trapping-rain-water](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0042-trapping-rain-water) |
 | [0056-merge-intervals](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0056-merge-intervals) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0169-majority-element](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0283-move-zeroes) |
@@ -125,6 +126,7 @@ Collection of LeetCode questions from Dynamic Programming Section.
 | [0037-sudoku-solver](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0041-first-missing-positive) |
 | [0076-minimum-window-substring](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0076-minimum-window-substring) |
+| [0169-majority-element](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0268-missing-number) |
 | [0523-continuous-subarray-sum](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0560-subarray-sum-equals-k) |
@@ -154,6 +156,7 @@ Collection of LeetCode questions from Dynamic Programming Section.
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0023-merge-k-sorted-lists) |
+| [0169-majority-element](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0169-majority-element) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 ## Sorting
 |  |
@@ -161,6 +164,7 @@ Collection of LeetCode questions from Dynamic Programming Section.
 | [0015-3sum](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0016-3sum-closest) |
 | [0056-merge-intervals](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0056-merge-intervals) |
+| [0169-majority-element](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0268-missing-number) |
 | [0780-max-chunks-to-make-sorted](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0780-max-chunks-to-make-sorted) |
 | [1019-squares-of-a-sorted-array](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1019-squares-of-a-sorted-array) |
@@ -301,6 +305,7 @@ Collection of LeetCode questions from Dynamic Programming Section.
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0169-majority-element) |
 | [1160-letter-tile-possibilities](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1396-count-servers-that-communicate) |
