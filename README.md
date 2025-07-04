@@ -45,6 +45,7 @@ Collection of LeetCode questions from Dynamic Programming Section.
 | [1539-diagonal-traverse-ii](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1539-diagonal-traverse-ii) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [1830-count-good-meals](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1830-count-good-meals) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1876-map-of-highest-peak](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -135,6 +136,7 @@ Collection of LeetCode questions from Dynamic Programming Section.
 | [1364-tuple-with-same-product](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1364-tuple-with-same-product) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1830-count-good-meals](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1830-count-good-meals) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2107-find-unique-binary-string](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2107-find-unique-binary-string) |
 | [2300-construct-string-with-repeat-limit](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2300-construct-string-with-repeat-limit) |
