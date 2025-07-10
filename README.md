@@ -18,6 +18,7 @@ Collection of LeetCode questions from Dynamic Programming Section.
 | [0042-trapping-rain-water](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0042-trapping-rain-water) |
 | [0056-merge-intervals](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0056-merge-intervals) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0152-maximum-product-subarray](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0268-missing-number) |
@@ -82,6 +83,7 @@ Collection of LeetCode questions from Dynamic Programming Section.
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0042-trapping-rain-water) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0152-maximum-product-subarray](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0494-target-sum](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0494-target-sum) |
