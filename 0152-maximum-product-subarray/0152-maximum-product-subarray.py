@@ -2,16 +2,17 @@ class Solution:
     def maxProduct(self, nums: List[int]) -> int:
         
 
-        max_num = min_num = result = nums[0]
+        prev_max = prev_min = result = nums[0]
 
         for i in range(1, len(nums)):
             num = nums[i]
+            current_max = max(num, prev_max*num, prev_min*num)
+            current_min = min(num, prev_max*num, prev_min*num)
 
-            prev_max = max_num
+            result = max(current_max, result)
 
-            max_num = max(num, max_num * num, min_num * num)
-            min_num = min(num, max_num * num, min_num * num)
 
-            result = max(max_num, result)
+            prev_max = current_max
+            prev_min = current_min
 
-        return result
+        return result  
