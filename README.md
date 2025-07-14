@@ -101,6 +101,7 @@ Collection of LeetCode questions from Dynamic Programming Section.
 | [0125-valid-palindrome](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0125-valid-palindrome) |
 | [0952-word-subsets](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0952-word-subsets) |
 | [1160-letter-tile-possibilities](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1160-letter-tile-possibilities) |
+| [1351-replace-the-substring-for-balanced-string](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1351-replace-the-substring-for-balanced-string) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1524-string-matching-in-an-array](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1524-string-matching-in-an-array) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -158,6 +159,7 @@ Collection of LeetCode questions from Dynamic Programming Section.
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0076-minimum-window-substring) |
+| [1351-replace-the-substring-for-balanced-string](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1351-replace-the-substring-for-balanced-string) |
 | [2868-continuous-subarrays](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 ## Divide and Conquer
