@@ -101,6 +101,7 @@ Collection of LeetCode questions from Dynamic Programming Section.
 | [0076-minimum-window-substring](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0076-minimum-window-substring) |
 | [0093-restore-ip-addresses](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0093-restore-ip-addresses) |
 | [0125-valid-palindrome](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0125-valid-palindrome) |
+| [0443-string-compression](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0443-string-compression) |
 | [0952-word-subsets](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0952-word-subsets) |
 | [1160-letter-tile-possibilities](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1160-letter-tile-possibilities) |
 | [1351-replace-the-substring-for-balanced-string](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1351-replace-the-substring-for-balanced-string) |
@@ -224,6 +225,7 @@ Collection of LeetCode questions from Dynamic Programming Section.
 | [0125-valid-palindrome](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0287-find-the-duplicate-number) |
+| [0443-string-compression](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0443-string-compression) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0875-longest-mountain-in-array](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0875-longest-mountain-in-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1019-squares-of-a-sorted-array) |
