@@ -39,6 +39,7 @@ Collection of LeetCode questions from Dynamic Programming Section.
 | [0898-transpose-matrix](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0898-transpose-matrix) |
 | [0932-monotonic-array](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0932-monotonic-array) |
 | [0952-word-subsets](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0952-word-subsets) |
+| [0976-minimum-area-rectangle](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0976-minimum-area-rectangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1019-squares-of-a-sorted-array) |
 | [1364-tuple-with-same-product](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1364-tuple-with-same-product) |
 | [1367-maximum-height-by-stacking-cuboids](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1367-maximum-height-by-stacking-cuboids) |
@@ -141,6 +142,7 @@ Collection of LeetCode questions from Dynamic Programming Section.
 | [0523-continuous-subarray-sum](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0560-subarray-sum-equals-k) |
 | [0952-word-subsets](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0952-word-subsets) |
+| [0976-minimum-area-rectangle](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0976-minimum-area-rectangle) |
 | [1160-letter-tile-possibilities](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1364-tuple-with-same-product) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -181,6 +183,7 @@ Collection of LeetCode questions from Dynamic Programming Section.
 | [0268-missing-number](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0268-missing-number) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0780-max-chunks-to-make-sorted](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0780-max-chunks-to-make-sorted) |
+| [0976-minimum-area-rectangle](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0976-minimum-area-rectangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1019-squares-of-a-sorted-array) |
 | [1367-maximum-height-by-stacking-cuboids](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1367-maximum-height-by-stacking-cuboids) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -234,6 +237,7 @@ Collection of LeetCode questions from Dynamic Programming Section.
 | [0268-missing-number](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0268-missing-number) |
 | [0523-continuous-subarray-sum](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0523-continuous-subarray-sum) |
 | [0593-valid-square](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0593-valid-square) |
+| [0976-minimum-area-rectangle](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0976-minimum-area-rectangle) |
 | [1477-product-of-the-last-k-numbers](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1477-product-of-the-last-k-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2448-count-number-of-bad-pairs) |
 | [2752-sum-multiples](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2752-sum-multiples) |
@@ -263,6 +267,7 @@ Collection of LeetCode questions from Dynamic Programming Section.
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0149-max-points-on-a-line) |
 | [0593-valid-square](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0593-valid-square) |
+| [0976-minimum-area-rectangle](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0976-minimum-area-rectangle) |
 ## Binary Search
 |  |
 | ------- |
