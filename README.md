@@ -107,6 +107,7 @@ Collection of LeetCode questions from Dynamic Programming Section.
 | [0443-string-compression](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0443-string-compression) |
 | [0952-word-subsets](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0952-word-subsets) |
 | [1044-find-common-characters](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1044-find-common-characters) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1160-letter-tile-possibilities](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1160-letter-tile-possibilities) |
 | [1351-replace-the-substring-for-balanced-string](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1351-replace-the-substring-for-balanced-string) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -355,6 +356,7 @@ Collection of LeetCode questions from Dynamic Programming Section.
 | [0042-trapping-rain-water](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0042-trapping-rain-water) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0780-max-chunks-to-make-sorted](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0780-max-chunks-to-make-sorted) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2456-construct-smallest-number-from-di-string) |
