@@ -102,6 +102,7 @@ Collection of LeetCode questions from Dynamic Programming Section.
 | [0076-minimum-window-substring](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0076-minimum-window-substring) |
 | [0093-restore-ip-addresses](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0093-restore-ip-addresses) |
 | [0125-valid-palindrome](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0125-valid-palindrome) |
+| [0383-ransom-note](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0383-ransom-note) |
 | [0443-string-compression](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0443-string-compression) |
 | [0952-word-subsets](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0952-word-subsets) |
 | [1044-find-common-characters](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1044-find-common-characters) |
@@ -142,6 +143,7 @@ Collection of LeetCode questions from Dynamic Programming Section.
 | [0149-max-points-on-a-line](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0268-missing-number) |
+| [0383-ransom-note](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0383-ransom-note) |
 | [0523-continuous-subarray-sum](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0560-subarray-sum-equals-k) |
 | [0952-word-subsets](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0952-word-subsets) |
@@ -336,6 +338,7 @@ Collection of LeetCode questions from Dynamic Programming Section.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0383-ransom-note) |
 | [1160-letter-tile-possibilities](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1396-count-servers-that-communicate) |
