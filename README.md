@@ -21,6 +21,7 @@ Collection of LeetCode questions from Dynamic Programming Section.
 | [0149-max-points-on-a-line](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0149-max-points-on-a-line) |
 | [0152-maximum-product-subarray](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0283-move-zeroes) |
@@ -233,6 +234,7 @@ Collection of LeetCode questions from Dynamic Programming Section.
 | [0019-remove-nth-node-from-end-of-list](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0345-reverse-vowels-of-a-string) |
@@ -248,6 +250,7 @@ Collection of LeetCode questions from Dynamic Programming Section.
 | ------- |
 | [0029-divide-two-integers](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0029-divide-two-integers) |
 | [0149-max-points-on-a-line](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0149-max-points-on-a-line) |
+| [0189-rotate-array](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0268-missing-number) |
 | [0523-continuous-subarray-sum](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0523-continuous-subarray-sum) |
 | [0593-valid-square](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0593-valid-square) |
