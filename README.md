@@ -16,6 +16,7 @@ Collection of LeetCode questions from Dynamic Programming Section.
 | [0037-sudoku-solver](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0042-trapping-rain-water) |
+| [0049-group-anagrams](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0056-merge-intervals) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0149-max-points-on-a-line](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0149-max-points-on-a-line) |
@@ -101,6 +102,7 @@ Collection of LeetCode questions from Dynamic Programming Section.
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0005-longest-palindromic-substring) |
+| [0049-group-anagrams](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0076-minimum-window-substring) |
 | [0093-restore-ip-addresses](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0093-restore-ip-addresses) |
@@ -146,6 +148,7 @@ Collection of LeetCode questions from Dynamic Programming Section.
 | [0036-valid-sudoku](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0076-minimum-window-substring) |
 | [0149-max-points-on-a-line](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0169-majority-element) |
@@ -192,6 +195,7 @@ Collection of LeetCode questions from Dynamic Programming Section.
 | [0015-3sum](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0268-missing-number) |
