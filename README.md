@@ -86,6 +86,7 @@ Collection of LeetCode questions from Dynamic Programming Section.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0042-trapping-rain-water) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0152-maximum-product-subarray](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0152-maximum-product-subarray) |
@@ -99,6 +100,7 @@ Collection of LeetCode questions from Dynamic Programming Section.
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0005-longest-palindromic-substring) |
 | [0058-length-of-last-word](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0076-minimum-window-substring) |
 | [0093-restore-ip-addresses](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0093-restore-ip-addresses) |
@@ -228,6 +230,7 @@ Collection of LeetCode questions from Dynamic Programming Section.
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0018-4sum) |
