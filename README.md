@@ -18,6 +18,7 @@ Collection of LeetCode questions from Dynamic Programming Section.
 | [0042-trapping-rain-water](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0057-insert-interval) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0149-max-points-on-a-line](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0149-max-points-on-a-line) |
 | [0152-maximum-product-subarray](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0152-maximum-product-subarray) |
