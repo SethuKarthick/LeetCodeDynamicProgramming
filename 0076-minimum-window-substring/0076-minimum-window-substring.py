@@ -1,62 +1,47 @@
 class Solution:
     def minWindow(self, s: str, t: str) -> str:
-        targetCharCounts = self.getCharCounts(t)
-        subStringBounds = self.getSubStringBounds(s, targetCharCounts)
-        return self.getStringFromBounds(subStringBounds, s)
+        targetCharCounts = self.get_target_char_counts(t)
 
+        numUniqueChars = len(targetCharCounts)
+        numUniqueCharsDone = 0
+        substrings = [0, float("inf")]
+        left_idx = 0
+        currentWindow = {}
 
-
-    def getStringFromBounds(self, subStringBounds, s):
-        start, end = subStringBounds[0], subStringBounds[1]
-        if end == float("inf"):
-            return ""
-        return s[start: end+1]
-        
-
-    def getCharCounts(self, string: str):
-        charCounts = {}
-        for s in string:
-            charCounts[s] = charCounts.get(s, 0) + 1
-        
-        return charCounts
-
-    def getSubStringBounds(self, s: str, targetChars: dict):
-        subStringBounds = [0, float("inf")]
-        subStringCharCount = {}
-        numUniqueChar = len(targetChars.keys())
-        numUniqueCharDone = 0
-        leftIdx = 0
-        rightIdx = 0
-
-        while rightIdx < len(s):
-            rightChar = s[rightIdx]
-            if rightChar not in targetChars:
-                rightIdx += 1
+        for right_idx, char in enumerate(s):
+            rightChar = s[right_idx]
+            if char not in targetCharCounts:
+                right_idx += 1
                 continue
-
-            self.increaseCharCount(rightChar, subStringCharCount)
-            if subStringCharCount[rightChar] == targetChars[rightChar]:
-                numUniqueCharDone += 1
-            while numUniqueCharDone == numUniqueChar and leftIdx <= rightIdx:
-                subStringBounds = min([leftIdx, rightIdx], subStringBounds, key=lambda x: x[1]- x[0])
-                leftChar = s[leftIdx]
-                if leftChar not in targetChars:
-                    leftIdx += 1
+            currentWindow[char] = currentWindow.get(char, 0) + 1
+            if currentWindow[char] == targetCharCounts[char]:
+                numUniqueCharsDone +=1 
+            while numUniqueCharsDone == numUniqueChars and left_idx <= right_idx:
+                if (right_idx - left_idx) < (substrings[1] - substrings[0]):
+                    substrings = [left_idx, right_idx]
+                leftChar = s[left_idx]
+                if leftChar not in targetCharCounts:
+                    left_idx += 1
                     continue
+
+                if currentWindow[leftChar] == targetCharCounts[leftChar]:
+                    numUniqueCharsDone -= 1
                 
-                if subStringCharCount[leftChar] == targetChars[leftChar]:
-                    numUniqueCharDone -= 1
-                
-                self.decreaseCharCount(leftChar, subStringCharCount)
-                leftIdx += 1
+                currentWindow[leftChar] -= 1
+                left_idx += 1
 
-            rightIdx += 1
-        return subStringBounds
+        return "" if substrings[1] == float("inf") else s[substrings[0]: substrings[1]+1]
 
 
 
-    def increaseCharCount(self, char, charCounts):
-        charCounts[char] = charCounts.get(char, 0) + 1
 
-    def decreaseCharCount(self, char, charCounts):
-        charCounts[char] = charCounts.get(char, 0) - 1
+
+
+    def get_target_char_counts(self, t):
+        targetCounts = {}
+
+        for char in t:
+            targetCounts[char] = targetCounts.get(char, 0) + 1
+
+        return targetCounts
+
