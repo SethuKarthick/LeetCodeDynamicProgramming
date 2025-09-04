@@ -276,6 +276,7 @@ Collection of LeetCode questions from Dynamic Programming Section.
 | [2998-count-symmetric-integers](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2998-count-symmetric-integers) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3830-find-closest-person](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/3830-find-closest-person) |
 ## Prefix Sum
 |  |
 | ------- |
