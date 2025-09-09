@@ -100,6 +100,7 @@ Collection of LeetCode questions from Dynamic Programming Section.
 | [1367-maximum-height-by-stacking-cuboids](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1367-maximum-height-by-stacking-cuboids) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2408-number-of-people-aware-of-a-secret) |
 ## String
 |  |
 | ------- |
@@ -320,6 +321,7 @@ Collection of LeetCode questions from Dynamic Programming Section.
 | [0898-transpose-matrix](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0898-transpose-matrix) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2232-adding-spaces-to-a-string](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2232-adding-spaces-to-a-string) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -353,6 +355,7 @@ Collection of LeetCode questions from Dynamic Programming Section.
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0387-first-unique-character-in-a-string) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2868-continuous-subarrays](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2868-continuous-subarrays) |
 ## Ordered Set
 |  |
