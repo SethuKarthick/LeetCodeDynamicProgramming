@@ -56,6 +56,7 @@ Collection of LeetCode questions from Dynamic Programming Section.
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1830-count-good-meals](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1830-count-good-meals) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1876-map-of-highest-peak](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -171,6 +172,7 @@ Collection of LeetCode questions from Dynamic Programming Section.
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1830-count-good-meals](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1830-count-good-meals) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2107-find-unique-binary-string](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2107-find-unique-binary-string) |
 | [2300-construct-string-with-repeat-limit](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2300-construct-string-with-repeat-limit) |
@@ -333,6 +335,7 @@ Collection of LeetCode questions from Dynamic Programming Section.
 | ------- |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0780-max-chunks-to-make-sorted](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0780-max-chunks-to-make-sorted) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1917-maximum-average-pass-ratio) |
 | [2300-construct-string-with-repeat-limit](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2300-construct-string-with-repeat-limit) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2456-construct-smallest-number-from-di-string) |
