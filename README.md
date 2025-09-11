@@ -133,6 +133,7 @@ Collection of LeetCode questions from Dynamic Programming Section.
 | [2292-counting-words-with-a-given-prefix](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2300-construct-string-with-repeat-limit](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2300-construct-string-with-repeat-limit) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2887-sort-vowels-in-a-string](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2887-sort-vowels-in-a-string) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3447-clear-digits](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/3447-clear-digits) |
 ## Backtracking
@@ -218,6 +219,7 @@ Collection of LeetCode questions from Dynamic Programming Section.
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [2887-sort-vowels-in-a-string](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2887-sort-vowels-in-a-string) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 ## Heap (Priority Queue)
