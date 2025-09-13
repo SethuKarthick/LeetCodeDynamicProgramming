@@ -11,12 +11,7 @@ class Solution:
             else:
                 cons_freq[ch] = cons_freq.get(ch, 0) + 1
 
-        vowels_max = 0
-
-        for ch, count in vowels_freq.items():
-            vowels_max = max(vowels_max, count)
-        cons_max = 0
-        for ch, count in cons_freq.items():
-            cons_max = max(cons_max, count)
+        vowels_max = max(vowels_freq.values(), default=0)
+        cons_max = max(cons_freq.values(), default=0)
 
         return vowels_max + cons_max
