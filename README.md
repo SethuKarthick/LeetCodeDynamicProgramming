@@ -45,6 +45,7 @@ Collection of LeetCode questions from Dynamic Programming Section.
 | [0932-monotonic-array](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0932-monotonic-array) |
 | [0952-word-subsets](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0952-word-subsets) |
 | [0976-minimum-area-rectangle](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0976-minimum-area-rectangle) |
+| [1006-vowel-spellchecker](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1006-vowel-spellchecker) |
 | [1019-squares-of-a-sorted-array](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1019-squares-of-a-sorted-array) |
 | [1044-find-common-characters](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1044-find-common-characters) |
 | [1364-tuple-with-same-product](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1364-tuple-with-same-product) |
@@ -121,6 +122,7 @@ Collection of LeetCode questions from Dynamic Programming Section.
 | [0443-string-compression](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0443-string-compression) |
 | [0541-reverse-string-ii](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0541-reverse-string-ii) |
 | [0952-word-subsets](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0952-word-subsets) |
+| [1006-vowel-spellchecker](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1006-vowel-spellchecker) |
 | [1044-find-common-characters](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1044-find-common-characters) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1160-letter-tile-possibilities](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1160-letter-tile-possibilities) |
@@ -172,6 +174,7 @@ Collection of LeetCode questions from Dynamic Programming Section.
 | [0560-subarray-sum-equals-k](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0560-subarray-sum-equals-k) |
 | [0952-word-subsets](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0952-word-subsets) |
 | [0976-minimum-area-rectangle](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0976-minimum-area-rectangle) |
+| [1006-vowel-spellchecker](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1006-vowel-spellchecker) |
 | [1044-find-common-characters](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1044-find-common-characters) |
 | [1160-letter-tile-possibilities](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1364-tuple-with-same-product) |
