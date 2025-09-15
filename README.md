@@ -126,6 +126,7 @@ Collection of LeetCode questions from Dynamic Programming Section.
 | [1044-find-common-characters](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1044-find-common-characters) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1160-letter-tile-possibilities](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1160-letter-tile-possibilities) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1351-replace-the-substring-for-balanced-string](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1351-replace-the-substring-for-balanced-string) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1524-string-matching-in-an-array](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1524-string-matching-in-an-array) |
@@ -177,6 +178,7 @@ Collection of LeetCode questions from Dynamic Programming Section.
 | [1006-vowel-spellchecker](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1006-vowel-spellchecker) |
 | [1044-find-common-characters](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1044-find-common-characters) |
 | [1160-letter-tile-possibilities](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1160-letter-tile-possibilities) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1364-tuple-with-same-product](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1364-tuple-with-same-product) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1468-check-if-n-and-its-double-exist) |
