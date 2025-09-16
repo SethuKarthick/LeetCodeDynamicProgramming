@@ -70,6 +70,7 @@ Collection of LeetCode questions from Dynamic Programming Section.
 | [2145-grid-game](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2145-grid-game) |
 | [2232-adding-spaces-to-a-string](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2232-adding-spaces-to-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2533-bitwise-xor-of-all-pairings) |
@@ -288,6 +289,7 @@ Collection of LeetCode questions from Dynamic Programming Section.
 | [0976-minimum-area-rectangle](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0976-minimum-area-rectangle) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1477-product-of-the-last-k-numbers](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1477-product-of-the-last-k-numbers) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2448-count-number-of-bad-pairs) |
 | [2752-sum-multiples](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2752-sum-multiples) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2802-find-the-punishment-number-of-an-integer) |
@@ -407,6 +409,7 @@ Collection of LeetCode questions from Dynamic Programming Section.
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3447-clear-digits](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/3447-clear-digits) |
 ## Monotonic Stack
@@ -547,4 +550,8 @@ Collection of LeetCode questions from Dynamic Programming Section.
 |  |
 | ------- |
 | [3462-vowels-game-in-a-string](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/3462-vowels-game-in-a-string) |
+## Number Theory
+|  |
+| ------- |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2307-replace-non-coprime-numbers-in-array) |
 <!---LeetCode Topics End-->
