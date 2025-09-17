@@ -73,6 +73,7 @@ Collection of LeetCode questions from Dynamic Programming Section.
 | [2232-adding-spaces-to-a-string](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2232-adding-spaces-to-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [2429-design-a-food-rating-system](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2429-design-a-food-rating-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2533-bitwise-xor-of-all-pairings) |
@@ -140,6 +141,7 @@ Collection of LeetCode questions from Dynamic Programming Section.
 | [2232-adding-spaces-to-a-string](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2232-adding-spaces-to-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2300-construct-string-with-repeat-limit](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2300-construct-string-with-repeat-limit) |
+| [2429-design-a-food-rating-system](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2429-design-a-food-rating-system) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2887-sort-vowels-in-a-string](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2887-sort-vowels-in-a-string) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -190,6 +192,7 @@ Collection of LeetCode questions from Dynamic Programming Section.
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2107-find-unique-binary-string](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2107-find-unique-binary-string) |
 | [2300-construct-string-with-repeat-limit](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2300-construct-string-with-repeat-limit) |
+| [2429-design-a-food-rating-system](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -246,6 +249,7 @@ Collection of LeetCode questions from Dynamic Programming Section.
 | [1917-maximum-average-pass-ratio](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1917-maximum-average-pass-ratio) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2300-construct-string-with-repeat-limit](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2300-construct-string-with-repeat-limit) |
+| [2429-design-a-food-rating-system](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2692-take-gifts-from-the-richest-pile) |
@@ -388,6 +392,7 @@ Collection of LeetCode questions from Dynamic Programming Section.
 ## Ordered Set
 |  |
 | ------- |
+| [2429-design-a-food-rating-system](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2434-design-a-number-container-system) |
 | [2868-continuous-subarrays](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2868-continuous-subarrays) |
 ## Monotonic Queue
@@ -548,6 +553,7 @@ Collection of LeetCode questions from Dynamic Programming Section.
 | ------- |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1477-product-of-the-last-k-numbers) |
+| [2429-design-a-food-rating-system](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2434-design-a-number-container-system) |
 ## Data Stream
 |  |
