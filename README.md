@@ -201,6 +201,7 @@ Collection of LeetCode questions from Dynamic Programming Section.
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3678-design-task-manager](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/3678-design-task-manager) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sliding Window
 |  |
@@ -257,6 +258,7 @@ Collection of LeetCode questions from Dynamic Programming Section.
 | [2868-continuous-subarrays](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2868-continuous-subarrays) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3678-design-task-manager](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/3678-design-task-manager) |
 ## Quickselect
 |  |
 | ------- |
@@ -395,6 +397,7 @@ Collection of LeetCode questions from Dynamic Programming Section.
 | [2429-design-a-food-rating-system](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2434-design-a-number-container-system) |
 | [2868-continuous-subarrays](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2868-continuous-subarrays) |
+| [3678-design-task-manager](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/3678-design-task-manager) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -555,6 +558,7 @@ Collection of LeetCode questions from Dynamic Programming Section.
 | [1477-product-of-the-last-k-numbers](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1477-product-of-the-last-k-numbers) |
 | [2429-design-a-food-rating-system](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2434-design-a-number-container-system) |
+| [3678-design-task-manager](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/3678-design-task-manager) |
 ## Data Stream
 |  |
 | ------- |
