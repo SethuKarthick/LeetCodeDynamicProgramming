@@ -94,6 +94,7 @@ Collection of LeetCode questions from Dynamic Programming Section.
 | [3429-special-array-i](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3797-design-spreadsheet](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/3797-design-spreadsheet) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -147,6 +148,7 @@ Collection of LeetCode questions from Dynamic Programming Section.
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3447-clear-digits](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/3447-clear-digits) |
 | [3462-vowels-game-in-a-string](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/3462-vowels-game-in-a-string) |
+| [3797-design-spreadsheet](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Backtracking
 |  |
@@ -202,6 +204,7 @@ Collection of LeetCode questions from Dynamic Programming Section.
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3678-design-task-manager](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/3678-design-task-manager) |
+| [3797-design-spreadsheet](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sliding Window
 |  |
@@ -385,6 +388,7 @@ Collection of LeetCode questions from Dynamic Programming Section.
 | [2145-grid-game](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2145-grid-game) |
 | [2685-first-completely-painted-row-or-column](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2685-first-completely-painted-row-or-column) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [3797-design-spreadsheet](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/3797-design-spreadsheet) |
 ## Queue
 |  |
 | ------- |
@@ -559,6 +563,7 @@ Collection of LeetCode questions from Dynamic Programming Section.
 | [2429-design-a-food-rating-system](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2434-design-a-number-container-system) |
 | [3678-design-task-manager](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/3678-design-task-manager) |
+| [3797-design-spreadsheet](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/3797-design-spreadsheet) |
 ## Data Stream
 |  |
 | ------- |
