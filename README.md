@@ -95,6 +95,7 @@ Collection of LeetCode questions from Dynamic Programming Section.
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3797-design-spreadsheet](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/3827-implement-router) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -205,6 +206,7 @@ Collection of LeetCode questions from Dynamic Programming Section.
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3678-design-task-manager](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/3827-implement-router) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sliding Window
 |  |
@@ -348,6 +350,7 @@ Collection of LeetCode questions from Dynamic Programming Section.
 | [1468-check-if-n-and-its-double-exist](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3827-implement-router](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/3827-implement-router) |
 ## Simulation
 |  |
 | ------- |
@@ -395,6 +398,7 @@ Collection of LeetCode questions from Dynamic Programming Section.
 | [0387-first-unique-character-in-a-string](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0387-first-unique-character-in-a-string) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2868-continuous-subarrays](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2868-continuous-subarrays) |
+| [3827-implement-router](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/3827-implement-router) |
 ## Ordered Set
 |  |
 | ------- |
@@ -402,6 +406,7 @@ Collection of LeetCode questions from Dynamic Programming Section.
 | [2434-design-a-number-container-system](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2434-design-a-number-container-system) |
 | [2868-continuous-subarrays](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2868-continuous-subarrays) |
 | [3678-design-task-manager](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/3678-design-task-manager) |
+| [3827-implement-router](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/3827-implement-router) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -564,6 +569,7 @@ Collection of LeetCode questions from Dynamic Programming Section.
 | [2434-design-a-number-container-system](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2434-design-a-number-container-system) |
 | [3678-design-task-manager](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/3827-implement-router) |
 ## Data Stream
 |  |
 | ------- |
