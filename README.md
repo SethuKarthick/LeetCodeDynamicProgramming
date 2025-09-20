@@ -47,6 +47,7 @@ Collection of LeetCode questions from Dynamic Programming Section.
 | [0932-monotonic-array](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0932-monotonic-array) |
 | [0952-word-subsets](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0952-word-subsets) |
 | [0976-minimum-area-rectangle](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0976-minimum-area-rectangle) |
+| [1003-minimum-area-rectangle-ii](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1003-minimum-area-rectangle-ii) |
 | [1006-vowel-spellchecker](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1006-vowel-spellchecker) |
 | [1019-squares-of-a-sorted-array](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1019-squares-of-a-sorted-array) |
 | [1044-find-common-characters](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1044-find-common-characters) |
@@ -183,6 +184,7 @@ Collection of LeetCode questions from Dynamic Programming Section.
 | [0560-subarray-sum-equals-k](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0560-subarray-sum-equals-k) |
 | [0952-word-subsets](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0952-word-subsets) |
 | [0976-minimum-area-rectangle](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0976-minimum-area-rectangle) |
+| [1003-minimum-area-rectangle-ii](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1003-minimum-area-rectangle-ii) |
 | [1006-vowel-spellchecker](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1006-vowel-spellchecker) |
 | [1044-find-common-characters](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1044-find-common-characters) |
 | [1160-letter-tile-possibilities](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1160-letter-tile-possibilities) |
@@ -301,6 +303,7 @@ Collection of LeetCode questions from Dynamic Programming Section.
 | [0523-continuous-subarray-sum](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0523-continuous-subarray-sum) |
 | [0593-valid-square](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0593-valid-square) |
 | [0976-minimum-area-rectangle](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0976-minimum-area-rectangle) |
+| [1003-minimum-area-rectangle-ii](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1003-minimum-area-rectangle-ii) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1477-product-of-the-last-k-numbers](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1477-product-of-the-last-k-numbers) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2307-replace-non-coprime-numbers-in-array) |
@@ -336,6 +339,7 @@ Collection of LeetCode questions from Dynamic Programming Section.
 | [0149-max-points-on-a-line](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0149-max-points-on-a-line) |
 | [0593-valid-square](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0593-valid-square) |
 | [0976-minimum-area-rectangle](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0976-minimum-area-rectangle) |
+| [1003-minimum-area-rectangle-ii](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1003-minimum-area-rectangle-ii) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 ## Binary Search
 |  |
