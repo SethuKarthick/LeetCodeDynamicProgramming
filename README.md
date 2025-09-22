@@ -88,6 +88,7 @@ Collection of LeetCode questions from Dynamic Programming Section.
 | [2792-neighboring-bitwise-xor](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2792-neighboring-bitwise-xor) |
 | [2868-continuous-subarrays](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -205,6 +206,7 @@ Collection of LeetCode questions from Dynamic Programming Section.
 | [2685-first-completely-painted-row-or-column](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2685-first-completely-painted-row-or-column) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3678-design-task-manager](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/3797-design-spreadsheet) |
@@ -427,6 +429,7 @@ Collection of LeetCode questions from Dynamic Programming Section.
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2300-construct-string-with-repeat-limit](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2300-construct-string-with-repeat-limit) |
 | [2448-count-number-of-bad-pairs](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2448-count-number-of-bad-pairs) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Stack
 |  |
