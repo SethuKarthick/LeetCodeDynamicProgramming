@@ -51,6 +51,7 @@ Collection of LeetCode questions from Dynamic Programming Section.
 | [1006-vowel-spellchecker](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1006-vowel-spellchecker) |
 | [1019-squares-of-a-sorted-array](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1019-squares-of-a-sorted-array) |
 | [1044-find-common-characters](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1044-find-common-characters) |
+| [1349-check-if-it-is-a-straight-line](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1364-tuple-with-same-product](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1364-tuple-with-same-product) |
 | [1367-maximum-height-by-stacking-cuboids](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1367-maximum-height-by-stacking-cuboids) |
 | [1396-count-servers-that-communicate](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1396-count-servers-that-communicate) |
@@ -308,6 +309,7 @@ Collection of LeetCode questions from Dynamic Programming Section.
 | [0593-valid-square](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0593-valid-square) |
 | [0976-minimum-area-rectangle](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0976-minimum-area-rectangle) |
 | [1003-minimum-area-rectangle-ii](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1003-minimum-area-rectangle-ii) |
+| [1349-check-if-it-is-a-straight-line](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1477-product-of-the-last-k-numbers](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1477-product-of-the-last-k-numbers) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2307-replace-non-coprime-numbers-in-array) |
@@ -344,6 +346,7 @@ Collection of LeetCode questions from Dynamic Programming Section.
 | [0593-valid-square](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0593-valid-square) |
 | [0976-minimum-area-rectangle](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0976-minimum-area-rectangle) |
 | [1003-minimum-area-rectangle-ii](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1003-minimum-area-rectangle-ii) |
+| [1349-check-if-it-is-a-straight-line](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1349-check-if-it-is-a-straight-line) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 ## Binary Search
 |  |
