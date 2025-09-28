@@ -49,6 +49,7 @@ Collection of LeetCode questions from Dynamic Programming Section.
 | [0976-minimum-area-rectangle](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0976-minimum-area-rectangle) |
 | [1003-minimum-area-rectangle-ii](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1003-minimum-area-rectangle-ii) |
 | [1006-vowel-spellchecker](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1006-vowel-spellchecker) |
+| [1018-largest-perimeter-triangle](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1019-squares-of-a-sorted-array) |
 | [1044-find-common-characters](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1044-find-common-characters) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1349-check-if-it-is-a-straight-line) |
@@ -241,6 +242,7 @@ Collection of LeetCode questions from Dynamic Programming Section.
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0780-max-chunks-to-make-sorted](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0780-max-chunks-to-make-sorted) |
 | [0976-minimum-area-rectangle](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0976-minimum-area-rectangle) |
+| [1018-largest-perimeter-triangle](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1019-squares-of-a-sorted-array) |
 | [1367-maximum-height-by-stacking-cuboids](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1367-maximum-height-by-stacking-cuboids) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -309,6 +311,7 @@ Collection of LeetCode questions from Dynamic Programming Section.
 | [0593-valid-square](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0593-valid-square) |
 | [0976-minimum-area-rectangle](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0976-minimum-area-rectangle) |
 | [1003-minimum-area-rectangle-ii](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1003-minimum-area-rectangle-ii) |
+| [1018-largest-perimeter-triangle](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1018-largest-perimeter-triangle) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1477-product-of-the-last-k-numbers](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1477-product-of-the-last-k-numbers) |
@@ -381,6 +384,7 @@ Collection of LeetCode questions from Dynamic Programming Section.
 | [0011-container-with-most-water](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0011-container-with-most-water) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0780-max-chunks-to-make-sorted](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0780-max-chunks-to-make-sorted) |
+| [1018-largest-perimeter-triangle](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1018-largest-perimeter-triangle) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1917-maximum-average-pass-ratio) |
 | [2300-construct-string-with-repeat-limit](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2300-construct-string-with-repeat-limit) |
