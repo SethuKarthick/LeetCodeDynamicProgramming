@@ -1,41 +1,34 @@
-from heapq import heappush, heappop
-from typing import List
+import heapq
 
 class Solution:
     def trapRainWater(self, heightMap: List[List[int]]) -> int:
-
-        if not heightMap or not heightMap[0]:
+        if not heightMap or len(heightMap) < 3 or len(heightMap[0]) < 3:
             return 0
 
-        m = len(heightMap)
-        n = len(heightMap[0])
-
+        m, n = len(heightMap), len(heightMap[0])
         visited = [[False] * n for _ in range(m)]
-
         heap = []
 
         for i in range(m):
-            for j in [0, n -1]:
-                heappush(heap, (heightMap[i][j], i , j))
-                visited[i][j] = True
-        
+            heapq.heappush(heap, (heightMap[i][0], i, 0))
+            heapq.heappush(heap, (heightMap[i][n - 1], i, n - 1))
+            visited[i][0] = visited[i][n - 1] = True
         for j in range(n):
-            for i in [0, m-1]:
-                heappush(heap, (heightMap[i][j], i, j))
-                visited[i][j] = True
+            heapq.heappush(heap, (heightMap[0][j], 0, j))
+            heapq.heappush(heap, (heightMap[m - 1][j], m - 1, j))
+            visited[0][j] = visited[m - 1][j] = True
 
+        result = 0
         directions = [(0, 1), (1, 0), (0, -1), (-1, 0)]
 
-        trappedWater = 0
-
         while heap:
-            height, x, y = heappop(heap)
+            height, x, y = heapq.heappop(heap)
+
             for dx, dy in directions:
-                nx, ny = x+dx, y+dy
+                nx, ny = x + dx, y + dy
                 if 0 <= nx < m and 0 <= ny < n and not visited[nx][ny]:
-                    trappedWater += max(0, height - heightMap[nx][ny])
-                    heappush(heap, (max(height, heightMap[nx][ny]), nx, ny))
+                    result += max(0, height - heightMap[nx][ny])
+                    heapq.heappush(heap, (max(height, heightMap[nx][ny]), nx, ny))
                     visited[nx][ny] = True
 
-        return trappedWater
-        
+        return result
