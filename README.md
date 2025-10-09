@@ -102,6 +102,7 @@ Collection of LeetCode questions from Dynamic Programming Section.
 | [3429-special-array-i](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3797-design-spreadsheet](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/3827-implement-router) |
 ## Dynamic Programming
@@ -342,6 +343,7 @@ Collection of LeetCode questions from Dynamic Programming Section.
 | [0560-subarray-sum-equals-k](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0560-subarray-sum-equals-k) |
 | [1477-product-of-the-last-k-numbers](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1477-product-of-the-last-k-numbers) |
 | [2145-grid-game](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2145-grid-game) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Linked List
 |  |
 | ------- |
@@ -391,6 +393,7 @@ Collection of LeetCode questions from Dynamic Programming Section.
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/3447-clear-digits) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Greedy
 |  |
 | ------- |
