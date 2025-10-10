@@ -99,6 +99,7 @@ Collection of LeetCode questions from Dynamic Programming Section.
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3429-special-array-i](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -343,6 +344,7 @@ Collection of LeetCode questions from Dynamic Programming Section.
 | [0560-subarray-sum-equals-k](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0560-subarray-sum-equals-k) |
 | [1477-product-of-the-last-k-numbers](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1477-product-of-the-last-k-numbers) |
 | [2145-grid-game](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2145-grid-game) |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Linked List
 |  |
