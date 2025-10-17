@@ -124,6 +124,7 @@ Collection of LeetCode questions from Dynamic Programming Section.
 | [1402-count-square-submatrices-with-all-ones](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 ## String
 |  |
 | ------- |
@@ -161,6 +162,7 @@ Collection of LeetCode questions from Dynamic Programming Section.
 | [2429-design-a-food-rating-system](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2429-design-a-food-rating-system) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2887-sort-vowels-in-a-string](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2887-sort-vowels-in-a-string) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3447-clear-digits](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/3447-clear-digits) |
 | [3462-vowels-game-in-a-string](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/3462-vowels-game-in-a-string) |
@@ -493,6 +495,7 @@ Collection of LeetCode questions from Dynamic Programming Section.
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2792-neighboring-bitwise-xor) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 ## Tree
 |  |
 | ------- |
@@ -626,4 +629,8 @@ Collection of LeetCode questions from Dynamic Programming Section.
 |  |
 | ------- |
 | [2324-find-triangular-sum-of-an-array](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2324-find-triangular-sum-of-an-array) |
+## Bitmask
+|  |
+| ------- |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 <!---LeetCode Topics End-->
