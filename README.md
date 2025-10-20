@@ -75,6 +75,7 @@ Collection of LeetCode questions from Dynamic Programming Section.
 | [1927-maximum-ascending-subarray-sum](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2107-find-unique-binary-string](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2107-find-unique-binary-string) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2145-grid-game](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2145-grid-game) |
 | [2232-adding-spaces-to-a-string](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2232-adding-spaces-to-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -156,6 +157,7 @@ Collection of LeetCode questions from Dynamic Programming Section.
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2107-find-unique-binary-string](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2107-find-unique-binary-string) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2232-adding-spaces-to-a-string](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2232-adding-spaces-to-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2300-construct-string-with-repeat-limit](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2300-construct-string-with-repeat-limit) |
@@ -393,6 +395,7 @@ Collection of LeetCode questions from Dynamic Programming Section.
 | ------- |
 | [0898-transpose-matrix](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0898-transpose-matrix) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2232-adding-spaces-to-a-string](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2232-adding-spaces-to-a-string) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2408-number-of-people-aware-of-a-secret) |
