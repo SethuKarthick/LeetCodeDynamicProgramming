@@ -106,6 +106,7 @@ Collection of LeetCode questions from Dynamic Programming Section.
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3797-design-spreadsheet](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/3827-implement-router) |
@@ -238,6 +239,7 @@ Collection of LeetCode questions from Dynamic Programming Section.
 | [1351-replace-the-substring-for-balanced-string](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1351-replace-the-substring-for-balanced-string) |
 | [2868-continuous-subarrays](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -272,6 +274,7 @@ Collection of LeetCode questions from Dynamic Programming Section.
 | [2887-sort-vowels-in-a-string](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2887-sort-vowels-in-a-string) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -354,6 +357,7 @@ Collection of LeetCode questions from Dynamic Programming Section.
 | [1477-product-of-the-last-k-numbers](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1477-product-of-the-last-k-numbers) |
 | [2145-grid-game](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2145-grid-game) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Linked List
 |  |
@@ -389,6 +393,7 @@ Collection of LeetCode questions from Dynamic Programming Section.
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3827-implement-router](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/3827-implement-router) |
 ## Simulation
 |  |
