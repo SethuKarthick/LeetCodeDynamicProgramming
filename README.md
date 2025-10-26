@@ -77,6 +77,7 @@ Collection of LeetCode questions from Dynamic Programming Section.
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2145-grid-game](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2145-grid-game) |
+| [2169-simple-bank-system](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2169-simple-bank-system) |
 | [2232-adding-spaces-to-a-string](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2232-adding-spaces-to-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2307-replace-non-coprime-numbers-in-array) |
@@ -218,6 +219,7 @@ Collection of LeetCode questions from Dynamic Programming Section.
 | [1834-minimum-number-of-people-to-teach](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2107-find-unique-binary-string](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2107-find-unique-binary-string) |
+| [2169-simple-bank-system](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2169-simple-bank-system) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2300-construct-string-with-repeat-limit](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2300-construct-string-with-repeat-limit) |
 | [2429-design-a-food-rating-system](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2429-design-a-food-rating-system) |
@@ -404,6 +406,7 @@ Collection of LeetCode questions from Dynamic Programming Section.
 | [0898-transpose-matrix](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/0898-transpose-matrix) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2169-simple-bank-system](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2169-simple-bank-system) |
 | [2232-adding-spaces-to-a-string](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2232-adding-spaces-to-a-string) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2408-number-of-people-aware-of-a-secret) |
@@ -621,6 +624,7 @@ Collection of LeetCode questions from Dynamic Programming Section.
 | ------- |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/1477-product-of-the-last-k-numbers) |
+| [2169-simple-bank-system](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2169-simple-bank-system) |
 | [2429-design-a-food-rating-system](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/2434-design-a-number-container-system) |
 | [3678-design-task-manager](https://github.com/SethuKarthick/LeetCodeDynamicProgramming/tree/master/3678-design-task-manager) |
